@@ -1,0 +1,5 @@
+twilio
+PyQt5
+PyAudio
+SpeechRecognition
+geocoder
